@@ -1,0 +1,76 @@
+body{
+	background-color: black;
+}
+header{
+	display:flex;
+	justify-content: space-between; 
+}
+.Heb h2{
+	color: white;
+}
+.ul ul li{
+	list-style: none;
+	color:white;
+	font-size: 15px;
+	margin: 5px;
+
+}
+.ul ul{
+	display: flex;
+}
+.kub{
+	display: flex;
+	justify-content: space-around;
+}
+.Red{
+	background-color: red;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	color:red;
+}
+.blue{
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	color:blue;
+}
+.green{
+	background-color: green;
+	height: 150px;
+	width: 150px;
+	color:green;
+}
+hr{
+	margin-top: 40px;
+	color:white;
+	width:150px;
+	
+}
+.kub2{
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.Red1{
+	background-color: red;
+	height: 150px;
+	width: 150px;
+	color:red;
+}
+.blue1{
+	
+	margin-top: 15px;
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	color:blue;
+}
+.green1{
+	margin-top: 15px;
+	background-color: green;
+	height: 150px;
+	width: 150px;
+	color:green;
+}
